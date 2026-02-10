@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "First Desire feat.HIRO from LGYankees.山猿（feat. HIRO from LGYankees.山猿）",
+  "base_artist": "中村舞子",
+  "createdAt": "2026-02-10T14:37:37.390593Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Desire feat. HIRO from LGYankees.山猿",
+      "artist": "中村舞子",
+      "has_synced": false,
+      "path": "select/pl_01_First_Desire_feat._HIRO_from_LGYankees.山猿_中村舞子.txt"
+    }
+  ]
+}
